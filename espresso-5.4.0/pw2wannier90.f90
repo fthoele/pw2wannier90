@@ -13,10 +13,8 @@
 !         uHu, uIu terms for orbital magnetisation
 ! please send bugs and comments to 
 ! Jonathan Yates and Arash Mostofi
+! Takashi Koretsune and Florian Thoele -- noncollinear and USPPs
 !
-! Known limitations:
-!  spinors and orbital magnetisation term are not yet
-!  implemented for ultrasoft pseudopotentials or PAW 
 !
 !
 !
